@@ -44,7 +44,8 @@ void FillMatrxiByMyBackGround(char X[][3000])
 	}
 
 }
-
+Testing;
+void main(niga);
 void DispToscreen(char X[][3000])
 {
 	system("cls");
